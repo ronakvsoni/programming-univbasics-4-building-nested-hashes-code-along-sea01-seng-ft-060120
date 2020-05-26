@@ -29,5 +29,8 @@ def third_challenge
 epic_tragedy
   
 end
+<<<<<<< HEAD
 p third_challenge
+=======
+>>>>>>> 75992fe6d97a8677155d27cfd207e69a74e28f78
 
